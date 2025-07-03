@@ -9,7 +9,7 @@ const projects = [
     description:
       "My university research focuses on 'Intelligent Vehicle Damage Detection and Repair Recommendation' and employs machine learning, image processing, sentiment analysis, and social media mining to detect car damage from photos and recommend nearby repair shops based on review trends.",
     align: "right",
-    image: "../../public/images/website-img-6.png",
+    image: "https://github.com/LAIkumara/my-portfolio/blob/main/public/images/website-img-6.png?raw=true",
     link: "https://github.com/LAIkumara/AutoXpert", // 👈 Updated
   },
   {
@@ -17,7 +17,7 @@ const projects = [
     description:
       "This project shows how to build a microservices-based backend using Spring Boot 3.5.3 (Java 21), with services for Product, Inventory, and Order. Each service is created with Spring Web and Spring Data JPA, and it connects to a MySQL database. The frontend is a simple React JS interface with Axios for API calls.",
     align: "left",
-    image: "../../public/images/website-img-7.png",
+    image: "https://github.com/LAIkumara/my-portfolio/blob/main/public/images/website-img-7.png?raw=true",
     link: "https://github.com/LAIkumara/ecommerce-microservices-app",
   },
   {
@@ -25,7 +25,7 @@ const projects = [
     description:
       "ScholerNet is a Learning Management System (LMS) built on the MERN stack and stylized with Tailwind CSS. It enables users to create and manage projects and assignments, assign supervisors to student projects, and track grades for both assignments and projects, thereby easing academic workflows and boosting overall learning management.",
     align: "right",
-    image: "../../public/images/website-img-8.png",
+    image: "https://github.com/LAIkumara/my-portfolio/blob/main/public/images/website-img-8.png?raw=true",
     link: "https://github.com/LAIkumara/ScholerNet", // 👈 Add your actual GitHub/project link
   },
   {
@@ -33,7 +33,7 @@ const projects = [
     description:
       "UnityWeb is a social media website built using ReactJS that aims to create a smooth and responsive user experience. It allows users to share posts, connect with others, and interact with content in real time. The frontend is created using current React components, which ensures quick performance and dynamic interactions.",
     align: "left",
-    image: "../../public/images/website-img-9.png",
+    image: "https://github.com/LAIkumara/my-portfolio/blob/main/public/images/website-img-9.png?raw=true",
     link: "https://github.com/LAIkumara/unityweb", // 👈 Add your actual GitHub/project link
   },
 ];
