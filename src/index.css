@@ -6,3 +6,28 @@
 body {
   @apply bg-darkBrown;
 }
+
+@media (max-width: 350px) {
+  .navbar-links {
+    display: none !important;
+  }
+
+  .navbar-toggler {
+    display: flex !important;
+  }
+
+  .navbar-btn {
+    display: none !important;
+  }
+}
+
+
+  @media (max-width: 767px) {
+
+    .navbar-logo {
+      display: none !important;
+    }
+  }
+
+
+
