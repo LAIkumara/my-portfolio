@@ -13,7 +13,7 @@ const HeroPic = () => {
     >
       <img
         src="https://github.com/LAIkumara/my-portfolio/blob/main/public/images/AkilaLiyanage.png?raw=true"
-        alt="Abdelrahman Qassem"
+        alt="Akila Liyanage"
         className="max-h-[450px] w-auto"
       />
 
