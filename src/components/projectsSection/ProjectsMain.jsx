@@ -5,6 +5,14 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
   {
+    name: "Autosell",
+    description:
+      "My university research focuses on 'Intelligent Vehicle Damage Detection and Repair Recommendation' and employs machine learning, image processing, sentiment analysis, and social media mining to detect car damage from photos and recommend nearby repair shops based on review trends.",
+    align: "left",
+    image: "https://github.com/LAIkumara/my-portfolio/blob/main/public/images/website-img-6.png?raw=true",
+    link: "https://github.com/LAIkumara/AutoXpert", // 👈 Updated
+  },
+  {
     name: "AutoExpert",
     description:
       "My university research focuses on 'Intelligent Vehicle Damage Detection and Repair Recommendation' and employs machine learning, image processing, sentiment analysis, and social media mining to detect car damage from photos and recommend nearby repair shops based on review trends.",
